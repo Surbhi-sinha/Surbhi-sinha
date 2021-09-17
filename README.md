@@ -1,7 +1,14 @@
-- 👋 Hi, I’m @Surbhi-sinha
-- 👀 I’m interested in all kinds of techs, hacks and cyber security.
-- 🌱 I’m currently learning wed development, cyber security and API controls.
-- 💞️ I’m looking to collaborate on web services, websites develpment and LINUX systems.
+ Hi, I’m SURBHI
+ 1[]()
+ ---
+ > I am a software engineer who is passionate about making open-source more accessible, creating software to elevate people, and building community. Some technologies I enjoy working with includes ReactJS, Jamstack(JavaScript, APIs + Markup) and mongoDB. 
+ 
+
+
+
+- I’m interested in all kinds of techs, hacks and cyber security.
+- 🌱 I’m currently learning wed development, API controls and software development through java.
+- 💞️ I’m looking to collaborate on web services, websites develpment and software development.
 - 📫 How to reach me -----> mail me--astsurbhisinha@gmail.com
 
 <!---
