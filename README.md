@@ -25,18 +25,7 @@
 Surbhi-sinha/Surbhi-sinha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h1>Stats-Chart</h1>
-<p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=Surbhi-sinha&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&locale=en"
-    alt="https://github.com/Surbhi-sinha" />
-</p>
-<br>
 
-<h1>Languages</h1>
-
- <a href="https://github.com/Surbhi-sinha/convoychat">
-  <img align="center" src=https://github-readme-stats.vercel.app/api/top-langs/?username=Surbhi-sinha&layout=compact)](https://github.com/Surbhi-sinha/github-readme-stats>
-</a>
 
 <br>
 <br>
