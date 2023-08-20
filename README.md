@@ -5,7 +5,7 @@
  ---
  > I am a software engineer 📟 who is passionate about making open-source more accessible, creating software to elevate people, and building community. Some technologies I enjoy working with includes ReactJS, Jamstack(JavaScript, APIs + Markup) and mongoDB. 
  
- <p align="center"> <img src="INTRO.gif"> </p>
+ <p align="center"> <img src="INTRO.gif" height = 80% width = 80%> </p>
 
 
 
