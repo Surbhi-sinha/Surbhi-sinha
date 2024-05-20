@@ -9,12 +9,9 @@
 
 
 
-- I’m interested in all kinds of techs, hacks and cyber security.
-- 🌱 I’m currently learning wed development, API controls and software development through java.
-- 💞️ I’m looking to collaborate on web services, websites develpment and software development.
+- 🌱 Worked on c#, and currently learning component development through pure javascript.
+- 💞️ Always open to work in collaboration on new ideas.
 - :heart: I love maths and problem solving.
-- :eyes: I always search for the new oppurtunities to learn different things to enhance my skillset.
-- :handshake: always open for collaboration on projects.
 - :satisfied:pronoun-- BUzzBee:honeybee:
 - 📫 How to reach me :point_down:
   - :bulb: [Medium articles](https://www.quora.com/profile/Surbhi-367)
