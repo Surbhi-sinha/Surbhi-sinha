@@ -3,7 +3,7 @@
  [visit website](https://surbhi-sinha.github.io/)
  
  ---
- > I am a software engineer 📟 who is passionate about making open-source more accessible, creating software to elevate people, and building community. Some technologies I enjoy working with includes ReactJS, Jamstack(JavaScript, APIs + Markup) and mongoDB. 
+ > I am a dedicated software engineer with a strong passion for making open-source projects, building software that empowers users, and fostering community engagement. I specialize in creating solutions that elevate both user experience and technical capabilities. I enjoy working with a variety of modern technologies, including ReactJS, Jamstack (JavaScript, APIs, Markup), and MongoDB, which enable me to develop robust and scalable web applications. My focus is on driving innovation while contributing to the open-source community. 
  
  <p align="center"> <img src="INTRO.gif" height = 80% width = 80%> </p>
 
