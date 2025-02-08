@@ -3,18 +3,25 @@
  [visit website](https://surbhi-sinha.github.io/)
  
  ---
- > I am a dedicated software engineer with a strong passion for making open-source projects, building software that empowers users, and fostering community engagement. I specialize in creating solutions that elevate both user experience and technical capabilities. I enjoy working with a variety of modern technologies, including ReactJS, Jamstack (JavaScript, APIs, Markup), and MongoDB, which enable me to develop robust and scalable web applications. My focus is on driving innovation while contributing to the open-source community. 
+> Passionate full-stack developer specializing in backend development with Node.js, crafting scalable web applications with a strong focus on innovation, efficiency, and user experience. 🚀
  
  <p align="center"> <img src="INTRO.gif" height = 80% width = 80%> </p>
 
 
 
-- 🌱 Worked on c#, and currently learning component development through pure javascript.
-- 💞️ Always open to work in collaboration on new ideas.
-- :heart: I love maths and problem solving.
-- :satisfied:pronoun-- BUzzBee:honeybee:
+```javascript
+const Surbhi = () => {  
+  return {  
+    specialization: "Software Dev(fullstack) 💻", 
+    passion: "Building scalable & secure web apps",  
+    motto: "Code. Optimize. Innovate. 🚀"  
+  };  
+};  
+console.log(Surbhi());  
+```
+
 - 📫 How to reach me :point_down:
-  - :bulb: [Medium articles](https://www.quora.com/profile/Surbhi-367)
+  - :bulb: [Medium articles](https://medium.com/@astsurbhisinha)
   - 📧: [email](astsurbhisinha@gmail.com)
   - :office: [LinkedIn](https://www.linkedin.com/in/surbhi-sinha-554902176/)
 
