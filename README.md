@@ -1,6 +1,6 @@
  👋Hi, I’m SURBHI
  
- [Surbhi-Sinha](https://surbhi-portfolio-beige.vercel.app/)
+ [Surbhi-Sinha](https://surbhi-sinha.vercel.app/)
  
  ---
 > Passionate full-stack developer specializing in backend development with Node.js, crafting scalable web applications with a strong focus on innovation, efficiency, and user experience. 🚀
