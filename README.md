@@ -5,8 +5,6 @@
  ---
 > Passionate full-stack developer specializing in backend development with Node.js, crafting scalable web applications with a strong focus on innovation, efficiency, and user experience. 🚀
  
- <p align="center"> <img src="INTRO.gif" height = 80% width = 80%> </p>
-
 
 
 ```javascript
