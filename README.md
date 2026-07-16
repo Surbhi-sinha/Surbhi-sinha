@@ -41,12 +41,12 @@
 
 ## 🚀 About Me
 
-> Passionate **full-stack developer** specializing in **backend development with Node.js**, crafting scalable web applications with a strong focus on **innovation, efficiency, and user experience.**
+> Passionate **full-stack developer** specializing in **backend development with Node.js, Java & Spring boot**, crafting scalable web applications with a strong focus on **innovation, efficiency, and user experience.**
 
 ```javascript
 const Surbhi = () => {
   return {
-    role: "Full-Stack Developer @ UXMagic.AI 💻",
+    role: "Full-Stack Developer 💻",
     focus: ["Multi-agent systems", "RAG", "Scalable backends","Smooth Frontends"],
     stack: ["Node.js", "NestJS", "Next.js","JavaScript", "TypeScript", "React", "Java", "Spring Boot","C#"],
     motto: "Code. Optimize. Innovate. 🚀",
@@ -56,12 +56,13 @@ const Surbhi = () => {
 console.log(Surbhi());
 ```
 
-- 🔭 &nbsp;Currently building **AI-powered design tooling** with multi-agent orchestration at **UXMagic.AI**
-- 🌱 &nbsp;Deepening my expertise in **distributed systems, microservices & cloud architecture**
-- 🧠 &nbsp;Ask me about **Node.js, NestJS, Next.js, MCP & Agentic programming, REST/WebSocket APIs**
-- 🧩 &nbsp;Solved **300+ DSA problems** on LeetCode • Ex-**Microsoft** & **GrapeCity** engineer
-- ✍️ &nbsp;I write about backend & scale in my [**"Hello World to Hyperscale"**](https://medium.com/@astsurbhisinha) series on Medium
+- 🔭 &nbsp;Currently building **Fullstack and AI-powered design tooling** with multi-agent orchestration.
+- 🌱 &nbsp;Deepening my expertise in **distributed systems, microservices, AI Infrastructure & cloud architecture**
+- 🧠 &nbsp;Ask me about **Node.js, NestJS, Next.js,React.js, Java, Spring Boot, MCP & Agentic programming, REST/WebSocket APIs**
+- 🧩 &nbsp;Ex-**Microsoft** & **GrapeCity** engineer
+- ✍️ &nbsp;I write about backend & scale in my [**blogs"**](https://medium.com/@astsurbhisinha)
 - 📫 &nbsp;Reach me at **astsurbhisinha@gmail.com**
+- 🌐 &nbsp;Visit my website 👉 **https://surbhi-sinha.vercel.app/**
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                          TECH STACK                             -->
